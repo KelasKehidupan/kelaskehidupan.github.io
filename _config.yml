@@ -16,9 +16,9 @@
 title: Kelas Kehidupan
 email: bahiranurul@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Situs berisi kumpulan teknik-teknik mengajar guru abad 21. 
+  Situs berisi kumpulan teknik-teknik mengajar guru abad 21.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kelaskehidupan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -27,9 +27,14 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
+
+excerpt_separator: <!--more-->
+paginate: 4
+paginate_path: "/blog/page:num/"
 
 sass:
   sass_dir: _sass

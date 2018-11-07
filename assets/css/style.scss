@@ -3,16 +3,51 @@
 
 @import "bootstrap/bootstrap";
 
+body {
+  background-color: #f3f3f3;
+}
+main{
+  margin-top: 2rem;
+}
+
+/* Table */
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 1rem;
+}
+thead{
+  background-color: #d7e0ff;
+}
+th, td{
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #000000;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+/* image on text */
+.image-wrapper {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    .image-caption {
+        color: grey;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
+
 /* stylelint-disable selector-list-comma-newline-after */
 
 .blog-header {
   line-height: 1;
-  border-bottom: 1px solid #e5e5e5;
 }
 
 .blog-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 2.25rem;
+  color: gray;
 }
 
 .blog-header-logo:hover {
@@ -37,6 +72,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
   height: 2.75rem;
   overflow-y: hidden;
+  border-bottom: 1px solid #e5e5e5;
+  border-top: 1px solid #e5e5e5;
 }
 
 .nav-scroller .nav {
@@ -113,6 +150,12 @@ h1, h2, h3, h4, h5, h6 {
 .blog-post-meta {
   margin-bottom: 1.25rem;
   color: #999;
+}
+
+.footnotes{
+  border-top: 1px solid black;
+  padding-top: 1rem;
+  font-size: small;
 }
 
 /*
