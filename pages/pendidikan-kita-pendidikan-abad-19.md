@@ -56,7 +56,7 @@ PNS juga dituntut untuk inovatif&mdash;jika kebetulan bos mereka yang terpilih d
 Kalau dulu di revolusi industri, profesional cukup jadi penurut, prosedural, & bisa diandalkan; sekarang di revolusi internet, profesional dituntut lebih inovatif, kreatif, & berani mengambil resiko. Sayangnya, sampai saat ini&mdash;jika kita lihat soal-soal Ujian Nasional&mdash;kurikulum kita masih fokus pada kemampuan menghapal & menghitung.
 
 {% include youtube.html
-            code="zpOULjyy-n8?rel=0"
+            code="y3jYVe1RGaU?rel=0"
             caption="Negara-negara dunia juga menghadapi masalah yang sama." %}
 
 Keterampilan menghapal & menghitung memang amat penting untuk menciptakan buruh pabrik & pegawai administrasi. Sayangnya, sudah tidak cukup lagi menjawab tantangan zaman ini.
