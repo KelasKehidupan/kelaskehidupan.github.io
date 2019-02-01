@@ -5,7 +5,7 @@ author: rizky
 permalink: "pendidikan-kita-masih-di-abad-19"
 ---
 
-10.000 tahun lahu, hanya ada 3 pilihan pekerjaan: pemburu hewan, pengumpul makanan, &amp; pengasuh anak.
+10.000 tahun lalu, hanya ada 3 pilihan pekerjaan: pemburu hewan, pengumpul makanan, &amp; pengasuh anak.
 
 {% include image.html
             img="1.pendidikan-kita-pendidikan-abad-19/hunter-gatherer.jpg"
