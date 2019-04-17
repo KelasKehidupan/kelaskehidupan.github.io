@@ -1,0 +1,53 @@
+
+
+<div class="jumbotron p-3 p-md-5 text-white rounded" style="background-color:#5f7367;">
+  <div class="col-md-9 px-0">
+    <h1 class="display-4 font-italic">Apa Peran Guru di Era Internet?</h1>
+    <p class="lead my-3">
+      Di era internet yang menggratiskan pengetahuan, cara mengajar kita sudah ketinggalan zaman. Fokus pendidikan harusnya bukan lagi tahu & paham, tapi keterampilan 4K (Berpikir Kritis, Komunikasi, Kolaborasi, Kreatifitas). Menyiapkan pekerja pabrik & pegawai administrasi adalah tujuan pendidikan tahun 1800-an, sekarang saatnya kita memperbanyak <em>entrepreneur</em> &amp; <em>intrapreneur</em>.
+    </p>
+    <p class="lead mb-0">
+      Kelas Kehidupan adalah blog untuk membantu guru & sekolah mengajarkan 4K di kelas-kelas. Demi cerahnya masa depan murid di era baru ini. Agar tidak ketinggalan tulisan terbaru, gabung grup WA kami.</p>
+  </div>
+</div>
+
+
+
+<main role="main" class="container">
+  <div class="row">
+
+    <div class="col-md-8 blog-main">
+      <h3 class="pb-3 mb-4 font-italic border-bottom">
+        Tulisan terbaru
+      </h3>
+      {% for post in paginator.posts  %}
+      <div class="blog-post">
+        <h2 class="blog-post-title">{{ post.title }}</h2>
+        <p class="blog-post-meta">{% include id-date.html date=post.date %} oleh {{ site.data.authors[post.author].name }}</p>
+        {{ post.excerpt }}
+        <p><a href="{{ post.url }}">Lanjut membaca</a></p>
+      </div>
+      {% endfor %}
+
+      <nav class="blog-pagination">
+        Halaman: {{ paginator.page }} dari {{ paginator.total_pages }}<br>
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="btn btn-outline-primary previous">
+            Sebelumnya
+          </a>
+        {% else %}
+          <span class="btn btn-outline-secondary disabled previous">Sebelumnya</span>
+        {% endif %}
+        <span class="page_number ">
+        </span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="btn btn-outline-primary next">Selanjutnya</a>
+        {% else %}
+          <span class="btn btn-outline-secondary disabled next">Selanjutnya</span>
+        {% endif %}
+      </nav>
+    </div>
+
+  {% include sidebar.html %}
+
+  </div>

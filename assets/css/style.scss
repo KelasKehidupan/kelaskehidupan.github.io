@@ -33,6 +33,9 @@ tr:nth-child(even){background-color: #f2f2f2}
   #mainNav{
     padding: 10px 0;
   }
+  #mainNav.navbar-shrink{
+    background-color: rgba(0,0,0,.75);
+  }
 }
 @media (max-width: 992px){
   .white-box span{
@@ -62,6 +65,16 @@ header.masthead{
   }
 }
 
+.social-buttons{
+  margin: 0 auto;
+  text-align: center;
+  li a {
+    font-size: 60px !important;
+    line-height: 97px !important;
+    width: 100px !important;
+    height: 100px !important;
+  }
+}
 
 /* Pagination */
 .blog-pagination {

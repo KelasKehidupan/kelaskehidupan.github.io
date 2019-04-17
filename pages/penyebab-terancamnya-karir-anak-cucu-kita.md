@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Pendidikan Kita, Pendidikan Abad 19"
+title: "Penyebab Terancamnya Karir Anak-Cucu Kita"
 author: rizky
-permalink: "pendidikan-kita-masih-di-abad-19"
+permalink: "penyebab-terancamnya-karir-anak-cucu-kita"
 ---
 
 10.000 tahun lalu, hanya ada 3 pilihan pekerjaan: pemburu hewan, pengumpul makanan, &amp; pengasuh anak.
 
 {% include image.html
-            img="1.pendidikan-kita-pendidikan-abad-19/hunter-gatherer.jpg"
+            img="1.penyebab-terancamnya-karir-anak-cucu-kita/hunter-gatherer.jpg"
             title="Pemburu & Pengumpul"
             max-width="500px"
             %}
@@ -68,14 +68,14 @@ Belum sempat pendidikan negara kita menjawab tantangan revolusi internet, di neg
 [^amazon]: Amazon menjelakan bahwa robot-robot tersebut tidak menggantikan pegawai mereka, melainkan membantu pegawai mereka. Argumen yang masuk akal, tapi jelas-jelas akan banyak orang berkerja kalau robot-robot tersebut tidak ada.
 
 {% include image.html
-            img="1.pendidikan-kita-pendidikan-abad-19/robot-di-amazon-1.png"
+            img="1.penyebab-terancamnya-karir-anak-cucu-kita/robot-di-amazon-1.png"
             title="Robot-robot yang berkerja di gudang Amazon"
             caption="Robot-robot yang berkerja di gudang Amazon"
             max-width="500px"
             %}
 
   {% include image.html
-              img="1.pendidikan-kita-pendidikan-abad-19/robot-di-amazon-2.png"
+              img="1.penyebab-terancamnya-karir-anak-cucu-kita/robot-di-amazon-2.png"
               title="Mereka menentukan sendiri pergerakan mereka"
               caption="Mereka menentukan sendiri pergerakan mereka"
               max-width="500px"
@@ -89,7 +89,7 @@ Revolusi robot sudah dimulai. Bapak-ibu &amp; teman-teman kita yang pekerjaannya
 
 Sementara di Indonesia, pendidikan kita masih fokus mengajarkan hapalan & hitungan.
 
-### Jadi apa solusinya?
+### Jadi, Bagaimana Kita Menyelamatkan Karir Anak-Cucu Kita?
 
 Jika kamu guru, jadilah guru progresif, dengan memfasilitasi murid melakukan 4K (berpikir kritis, komunikasi, kolaborasi, kreatifitas) di kelas. Pelajari metode-metode fasilitasi 4K.
 
