@@ -1,9 +1,11 @@
----
+
 layout: post
 title:  "Rangkuman Buku Membesarkan Anak Bebas-Narkoba"
 date:   2018-11-01
+categories: [ortu]
 author: rizky
----
+goal: "Nasihat pendiri Yayasan Cinta Anak Bangsa untuk mencegah anak mencoba narkoba."
+
 
 Salah satu orang yang saya kenal, adalah pecandu narkoba. Dia masih muda. Tidak ada satupun...
 

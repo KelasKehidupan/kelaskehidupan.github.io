@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Penyebab Terancamnya Karir Anak-Cucu Kita"
-author: rizky
 permalink: "penyebab-terancamnya-karir-anak-cucu-kita"
+goal: "Tulisan ini menyadarkan kita akan lemahnya pengaruh pendidikan formal saat ini, atas karir anak-cucu kita di masa depan."
 ---
 
 10.000 tahun lalu, hanya ada 3 pilihan pekerjaan: pemburu hewan, pengumpul makanan, &amp; pengasuh anak.

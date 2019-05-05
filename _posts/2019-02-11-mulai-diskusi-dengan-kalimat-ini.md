@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Mulai diskusi dengan kalimat ini"
+title:  "Mulai Diskusi Dengan Kalimat Ini"
+permalink: mulai-diskusi-dengan-kalimat-ini
 date:   2019-02-11
+categories: [ortu, guru]
 author: nurul
+goal: "Ingin anak lebih diplomatis & mudah menenggang rasa? Baca tulisan ini."
 ---
-
-
 
 3 kata ini membuat meeting Saya yang tadinya panas di kantor menjadi lebih tenang.
 3 kata ini yang membuat perdebatan Saya dan pasangan menjadi lebih mudah dipertemukan.
@@ -14,6 +15,7 @@ author: nurul
 
 Terkadang dalam berdiskusi kita sangat percaya pada apa yang Kita anggap benar.
 Tidak segan segan memberikan banyak argumentasi dan bantahan terhadap pendapat orang lain yang berbeda.
+
 Tapi apakah dengan teknik itu, diskusi- pertengkaran bisa di selesaikan? .
 Nyatanya Hal tersebut malah membuat orang lain semakin enggan menima pendapat Kita.
 

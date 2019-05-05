@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: "untuk-orang-tua"
+---
+
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-8 blog-main">
+
+      <a href="{{ site.url }}/untuk-guru" class="float-right">untuk guru</a>
+
+      <h1>Untuk Orang Tua</h1>
+
+      <ul class="list-group">
+
+          {% for post in site.categories.ortu %}
+
+          <li class="list-group-item">
+            <span class="badge badge-secondary float-right">{% include id-date.html date=post.date %}</span>
+            <a href="{{ post.url }}">{{ post.title }}</a><br>
+            <small class="text-muted">{{ post.goal }}</small>
+           </li>
+
+          {% endfor %}
+
+      </ul>
+      
+    </div>
+
+  {% include sidebar.html %}
+
+  </div>
