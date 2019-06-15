@@ -11,7 +11,7 @@ goal: "Tulisan ini mengusulkan pentingnya pendidikan formal, yang fokus pada kem
             max-width="500px"
             %}
 
-### Kesamaan kita
+### Kesamaan kita semua
 
 Seunik-uniknya manusia, tantangan hidup mereka pasti mirip-mirip.
 
