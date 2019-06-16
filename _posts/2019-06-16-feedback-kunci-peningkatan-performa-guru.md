@@ -17,9 +17,7 @@ Kritik atau masukan merupakan sesuatu yang banyak orang hindari. Tidak jarang re
 
 Namun, terdapat satu profesi yang memiliki kesempatan masukan paling sedikit dari penggunanya. Profesi tersebut adalah Guru. Seberapa seringkah kita melihat anak murid dengan rutin memberi masukan ke gurunya agar performanya meningkat. Profesi guru sering dianggap mistik, sehingga tidak jarang memberi masukan kepada profesi ini tidak bisa dilakukan oleh banyak orang, apalagi murid. Murid sering dianggap tidak tau dan hanya harus menerima dengan pasif pembelajaran. Padahal, dilihat dari sudut pandang bisnis atau marketing, pengguna atau costumer sesungguhnya si guru adalah murid. Hal yang wajar apabila murid memberikan masukan demi meningkatnya performa guru.  
 
-Hal yang sama diungkapkan juga oleh Bill Gates -- pemilik microsoft-- bahwa guru adalah salah satu profesi yang mendapatkan banyak ketidakuntungan dari kurangnya sistem yang mendukung pemberian masukan kepada guru. Dalam Ted Talks-nya, Gates juga menjelaskan bahwa negara-negara yang memiliki sistem feedback yang baik terhadap gurunya, memiliki output kualitas siswa yang lebih baik. Lihat video ini untuk melihat lebih jauh : 
-
-https://www.ted.com/talks/bill_gates_teachers_need_real_feedback?language=en
+Hal yang sama diungkapkan juga oleh Bill Gates -- pemilik microsoft-- bahwa guru adalah salah satu profesi yang mendapatkan banyak ketidakuntungan dari kurangnya sistem yang mendukung pemberian masukan kepada guru. Dalam Ted Talks-nya, Gates juga menjelaskan bahwa negara-negara yang memiliki sistem feedback yang baik terhadap gurunya, memiliki output kualitas siswa yang lebih baik. Lihat video ini untuk melihat lebih jauh: 
 
 {% include youtube.html
             code="81Ub0SMxZQo?rel=0"
