@@ -70,8 +70,8 @@ Bukankah sudah terdengar seperti apresiasi?
 Namun, saat mendengar apresiasi dengan kata tapi, kembali wajah murid-murid PC2 sedih. Kata tapi membuat apresiasi diawal terdengar palsu dan dipaksakaan. Seakan ada hanya untuk membuat kritik terdengar halus.
 
 Bagi mereka mungkin seperti kata penolakan saat menyatakan pernyataan cinta
-_“Kamu mau nga jadi pacar ku?”
-"Kamu baik banget, aku suka tapi sayang kamu bukan tipeku."_
+A: _“Kamu mau nga jadi pacar ku?”_
+B: _"Kamu baik banget, aku suka tapi sayang kamu bukan tipeku."_
 "
 {% include image.html
 img="https://user-images.githubusercontent.com/47235778/59561090-ea539480-9045-11e9-821d-f4ee2b76c4af.png"
