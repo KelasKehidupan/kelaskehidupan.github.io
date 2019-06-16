@@ -8,7 +8,10 @@ author: nurul
 goal: "Ingin menjadi guru yang mampu menjawab kebutuhan murid?Mulai dengan menerapkan teknik ini di kelas."
 ---
 
-###"Seberapapun hebatnya kamu sebagai seorang pemimpin, selalu ada orang-orang di sekitarmu yang memiliki masukan dan ide-ide yang membuat kamu jadi lebih baik. Jadi bagi saya, hal yang paling fundamental dalam kepemimpinan adalah memiliki kerendahan hati untuk menerima dan mendapatkan masukan dan berusaha menjadi lebih baik -- karena tugas pemimpin adalah mencoba membuat kehidupan banyak orang lebih baik."_ Jim Yong Kim 
+{% include blockquote.html
+text="Seberapapun hebatnya kamu sebagai seorang pemimpin, selalu ada orang-orang di sekitarmu yang memiliki masukan dan ide-ide yang membuat kamu jadi lebih baik. Jadi bagi saya, hal yang paling fundamental dalam kepemimpinan adalah memiliki kerendahan hati untuk menerima dan mendapatkan masukan dan berusaha menjadi lebih baik -- karena tugas pemimpin adalah mencoba membuat kehidupan banyak orang lebih baik."
+footer="Jim Yong Kim"
+%}
 
 Kritik atau masukan merupakan sesuatu yang banyak orang hindari. Tidak jarang respons dari banyak orang saat di kritik atau diberi masukan adalah dengan menjadi defensif. Namun, banyak juga orang yang merasakan banyak manfaat dari mendapatkan masukan. Layaknya seorang guru atau pelatih yang memberikan masukan bagi muridnya agar kemampuan si anak meningkat, masukan pada dasarnya berperan besar bagi semua orang yang ingin menjadi lebih baik. 
 
