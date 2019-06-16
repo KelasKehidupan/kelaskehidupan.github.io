@@ -135,6 +135,31 @@ header.masthead{
   color: #999;
 }
 
+/*
+ * Blockquote on a post
+ */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1rem 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  footer{
+    padding: 0;
+    text-align: left;
+  }
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
 .footnotes{
   border-top: 1px solid black;
   padding-top: 1rem;

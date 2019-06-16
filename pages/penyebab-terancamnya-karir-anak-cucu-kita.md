@@ -87,7 +87,9 @@ Mobil yang berjalan tanpa supir sudah bisa dibeli&mdash;sejak Januari 2014.
 
 Revolusi robot sudah dimulai. Bapak-ibu &amp; teman-teman kita yang pekerjaannya mekanis &amp; administratif terancam kehilangan pekerjaan&mdash;karena digantikan oleh robot.
 
-Sementara di Indonesia, pendidikan kita masih fokus mengajarkan hapalan & hitungan.
+{% include blockquote.html
+  text="Sementara di Indonesia, pendidikan kita masih fokus mengajarkan hapalan & hitungan."
+  %}
 
 ### Jadi, Bagaimana Kita Menyelamatkan Karir Anak-Cucu Kita?
 
