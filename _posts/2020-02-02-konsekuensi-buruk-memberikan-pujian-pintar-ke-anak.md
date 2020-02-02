@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+permalink: konsekuensi-buruk-memberikan-pujian-pintar-ke-anak
+date: 2020-02-02T00:00:00.000Z
+categories:
+  - ortu
+  - guru
+author: nurul
+goal: Yakin mau memuji anak dengan sebutan 'pintar'?
 ---
 Sebagai orang tua ataupun guru, kita sering sekali memuji anak-anak kita dengan ucapan,”kamu anak pintar.” Biasanya pujian tersebut kita ucapkan, saat anak kita mendapatkan nilai bagus ataupun melakukan tugas dengan baik. Menurut kita, pujian tersebut akan membuat anak kita lebih semangat belajar. Tapi, benarkah seperti itu? Berikut hasil penelitian yang menunjukan sebaliknya. 
 
@@ -10,5 +18,4 @@ Pada babak kelima, peneliti meninggalkan ruangan selama 1 menit dan meminta anak
 Penelitian lainya adalah penelitian dari Claudia Mueller dan Carol Dweck yang menunjukan bahwa setelah dipuji untuk kepintarannya, murid kelas 5 melebih-lebihkan hasil performa mereka, kurang persisten dalam menyelesaikan masalah, kurang menikmati momen mengerjakan masalah yang diberikan, dan berperforma lebih buruk dibanding dengan murid yang dipuji karena usahanya. 
 Dari hasil penelitian mereka, ditemukan bahwa pujian, baik untuk kemampuannya &mdash; seperti pintar &mdash; ataupun usahanya, memiliki pengaruh terhadap sikap murid terhadap belajar. Murid yang dipuji karena usahanya &mdash; ”Kamu berusaha keras” &mdash; lebih cenderung memilih tugas yang menantang, sedangkan murid yang dipuji karena kemampuanya &mdash; ”kamu pintar” &mdash; lebih memilih tugas di dalam zona nyamannya. 
 
-Singkatnya, anak yang dipuji karena kepintaranya akan berusaha keras mempertahankan label ‘pintar’, hingga melupakan esensi dari belajar itu sendiri. Bahkan, hingga dapat menghalalkan segala cara seperti menyontek.  Sedangkan anak yang dipuji karena usahanya akan lebih fokus pada proses belajar bukanya ‘hasil’ dan ‘label’. Jadi, Ayah dan Bunda, Bapak dan Ibu guru, Yuk kita coba ubah kebiasaan kita memuji anak. Mari mulai mendorong anak untuk fokus pada usahanya, bukan hasil. Jika anak ibu memiliki nilai ujian yang bagus karena belajar giat, maka ucapkan “Ibu lihat kamu belajar dengan giat untuk ujian kemarin, ibu bangga atas usaha keras kamu!” 
-
+Singkatnya, anak yang dipuji karena kepintaranya akan berusaha keras mempertahankan label ‘pintar’, hingga melupakan esensi dari belajar itu sendiri. Bahkan, hingga dapat menghalalkan segala cara seperti menyontek.  Sedangkan anak yang dipuji karena usahanya akan lebih fokus pada proses belajar bukanya ‘hasil’ dan ‘label’. Jadi, Ayah dan Bunda, Bapak dan Ibu guru, Yuk kita coba ubah kebiasaan kita memuji anak. Mari mulai mendorong anak untuk fokus pada usahanya, bukan hasil. Jika anak ibu memiliki nilai ujian yang bagus karena belajar giat, maka ucapkan “Ibu lihat kamu belajar dengan giat untuk ujian kemarin, ibu bangga atas usaha keras kamu!”
