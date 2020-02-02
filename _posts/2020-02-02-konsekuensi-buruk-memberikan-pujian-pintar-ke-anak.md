@@ -2,7 +2,7 @@
 published: true
 layout: post
 permalink: konsekuensi-buruk-memberikan-pujian-pintar-ke-anak
-date: {}
+date: 2020-02-02T00:00:00.000Z
 categories:
   - ortu
   - guru
