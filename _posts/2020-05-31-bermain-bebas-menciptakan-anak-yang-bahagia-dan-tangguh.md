@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 permalink: bermain-bebas-menciptakan-anak-yang-bahagia-dan-tangguh
 date: 2020-05-31T00:00:00.000Z
@@ -37,14 +37,4 @@ Penelitian pada tikus yang dengan sengaja diisolasi dan tidak bermain dengan tik
 Hal yang sama juga terjadi pada manusia. Dalam penelitian lain, dilakukan oleh profesor terapis profesional, Loise Hess dan koleganya di institusi kesahatan di Palo Alto, California mereka mencari tau hubungan antara seberapa senang bermain dengan ketrampilan mengatasi keadaan pada remaja laki-laki. Mereka meneliti dua grup remaja, yang satu tumbuh normal dan yang satunya memiliki masalah emosional. Peneliti melihat terdapat hubungan antara senangnya bermain dan kemampuan mengatasi keadaan. Peneliti menyimpulkan bahwa bermain bisa dilakukan untuk memperbaiki ketrampilan mengatasi keadaan (Alexander dan Sandahl, 2016 : 14). 
 
 Penelitian serupa juga muncul, di pusat perkembangan prasekolah di Massachusetts, peneliti mengukur hubungan playfulness dan coping inventory. Hasil penelitian menunjukan bahwa semakin banyak mereka bermain-- mereka menjadi lebih baik dalam mempelajari ketrampilan sosial dan mengatasi keadaan(Alexander dan Sandahl, 2016 : 14).
-
-
-
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
