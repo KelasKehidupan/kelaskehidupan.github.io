@@ -11,6 +11,11 @@ layout: default
       <hr class="after-title">
       <p><em class="text-muted">{{ page.goal }}</em></p>
       {{content}}
+      <hr class="end-of-post">
+      <h2>Komentar</h2>
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
     </div>
 
     {% include sidebar.html %}

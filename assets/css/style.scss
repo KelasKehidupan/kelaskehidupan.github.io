@@ -109,7 +109,7 @@ header.masthead{
 
   hr.after-title{
     margin-left: 0;
-    width: 50%; 
+    width: 50%;
   }
 
   .image-wrapper{
@@ -161,9 +161,13 @@ blockquote p {
 }
 
 .footnotes{
-  border-top: 1px solid black;
+  border-top: 1px solid rgba(0,0,0,.1);
   padding-top: 1rem;
   font-size: small;
+}
+
+hr.end-of-post{
+  border-top: 3px solid rgba(0,0,0,.1);
 }
 
 /*
