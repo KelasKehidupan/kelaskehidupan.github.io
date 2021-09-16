@@ -12,12 +12,6 @@ goal: >-
 published: true
 ---
 
-
-
-{% include image.html
-img="https://user-images.githubusercontent.com/47235778/59561620-b465de80-904c-11e9-8cab-09707e9f2872.png"
-%}
-
 *“Lagi males ah belajar.”*
 
 *“Nanti saja deh.”*
@@ -27,7 +21,7 @@ Seberapa sering kita mendengar kalimat itu keluar dari mulut anak kita saat disu
 Tidak seperti motivator di TV, sepertinya mudah saja memberi semangat. walaupun sudah cuap-cuap, marah-marah sampai haus, tetap saja anak kita enggan untuk bangun dari tidurnya, lepas dari HP-nya, lalu fokus untuk belajar. Lalu bagaimana seharusnya kita sebagai orang tua dan guru bisa memotivasi anak? 
 
 {% include image.html
-img="https://user-images.githubusercontent.com/2253841/133434764-088a5e7c-baea-4efb-a986-cd909064a3f7.png"
+img="https://user-images.githubusercontent.com/2253841/133552199-4995e9eb-78bd-470d-9567-03d29867d269.png"
 %}
 
 Pada tulisan ini, kita akan membahas hal apa  yang sebenarnya membangkitkan motivasi belajar anak dan bagaimana kita bisa membantu memupuk semangat itu.  
@@ -59,7 +53,7 @@ Ini yang saya tulis kepadanya.
 Hanya 1 paragraf bisa mengubah pandangan hendro tentang dirinya. Sebelumnya, belum pernah ada guru yang percaya pada kemampuanya. Fokus pada usaha sambil memberikan saran untuk tumbuh, terbukti berdampak luar biasa bagi kepercayaan dirinya. **Kepercayaan diri sangat berpengaruh bagi motivasi anak baik untuk pencapaian akademis ataupun kesehatan mental emosional (Bartlett and Burton, 2007).**
 
 {% include image.html
-img="https://user-images.githubusercontent.com/2253841/133550845-b9ef3391-e608-492a-a597-625d567f0c09.png
+img="https://user-images.githubusercontent.com/2253841/133552238-4ef1f9d4-4f43-47bf-8b21-264b1243482e.png"
 %}
 
 Namun, jika guru atau orang tua gagal untuk melihat proses ini, maka akan membuat anak merasa usahanya tidak berharga dan semakin malas untuk belajar. Mereka akan merasa bahwa hasil yang di dapat tidak ada kaitanya dengan usaha mereka. Lalu, untuk apa berusaha? 
@@ -79,7 +73,7 @@ Di tengah semester setelah ada test/ujian, tuliskan 1 paragraf hal yang dilihat 
 Dengan anak yang mengarahkan proses belajar secara mandiri, mereka akan bersemangat karena mereka bisa memilih topik yang disenangi. Mereka bisa berjam-jam belajar tanpa ada rasanya suntuk. Terkait ini ada beberapa metode pembelajaran yang memiliki prinsip utama demikian, seperti montessori dan SOLE (self-oranganize learning environment).  Walaupun, metode seperti ini belum sering diterapkan di sekolah negeri di Indonesia, namun bapak/Ibu guru bisa mencari ruang untuk memberikan kebebasan lebih bagi anak untuk mengatur arah belajar.
 
 {% include image.html
-img=https://user-images.githubusercontent.com/2253841/133551538-60d35314-1e33-4107-8972-a63d7580bce4.png
+img="https://user-images.githubusercontent.com/2253841/133551538-60d35314-1e33-4107-8972-a63d7580bce4.png"
 %}
 
 Sebagai contoh dalam pelajaran biologi tentang virus, tanyakan kepada murid hal apa yang mereka tau dan hal apa yang membingungkan dari virus. Lalu, memberikan project untuk menjawab pertanyaan tersebut. Mereka juga bisa memilih bentuk laporanya, apakah dalam bentuk video animasi, presentasi verbal,  atau poster. Pada prinsipnya, Semakin sedikit guru mengatur dan semakin banyaknya kesempatan anak memilih, semakin terbuka ruang untuk anak mengatur pembelajaranya.  
@@ -91,7 +85,7 @@ Hal ini tentu saja aneh buat anak-anak di awal,  mereka terbiasa di sekolah untu
 Sering kali kita pikir dengan mengadakan kompetisi, anak akan menjadi lebih semangat. Dahulu kita pikit bahwa sistem ranking membuat anak menjadi belajar giat. Ternyata, penelitian menunjukan sebaliknya. Dalam kompetisi ada yang menang dan lebih banyak yang kalah. Covington (1998) menunjukkan bahwa kompetisi memiliki dampak yang membahayakan bagi motivasi belajar anak. Anak murid menjadi mempunyai tendensi untuk menghindari risiko kegagalan/kalah dengan tidak mencoba tantangan tersebut dan meniadakan integritas dalam prosesnya. Pernahkan bapak/Ibu mendengar ada anak yang diajak mengikuti tantangan atau hal baru,”males ah.” “Nga ah”? Tanya lagi, keengganan mereka ini karena apa?
 
 {% include image.html
-img=https://user-images.githubusercontent.com/2253841/133551682-e71e72d4-3dd8-4b43-9177-68da33842bd2.png
+img="https://user-images.githubusercontent.com/2253841/133551682-e71e72d4-3dd8-4b43-9177-68da33842bd2.png"
 %}
 
 Disinilah peran orang tua sangat penting. Menurut Covington (1998) bukan kejadian gagal/kalah yang dapat merusak pencapaian akademik, namun tentang bagaimana “kegagalan” itu didefinisikan. Bapak/ibu bisa memberikan pandangan bahwa kegagalan itu bukan berarti ‘bodoh’ atau ‘payah’ namun sebuah proses untuk memahami ruang untuk berkembang. Bapak/ibu guru bisa membuat iklim sekolah yang membuat tidak terpenuhinya target sesorang diinterpretasikan sebagai dorongan untuk belajar lebih bukan kegagalan. 
