@@ -42,11 +42,11 @@ Menurut Maehr and Midgley (1991) faktor-faktor ini mempengaruhi motivasi anak da
 
 Dari 3 faktor ini kita dilihat bahwa motivasi belajar dipengaruhi oleh pola pikir anak. Sebagai orang tua dan guru, kita bisa bantu anak untuk termotivasi dengan memberikan pandangan yang tepat.  
 
-### 1. Pandangan bahwa usaha dan proses adalah yang terpenting. 
+### 1. Pandangan bahwa usaha dan proses adalah yang terpenting
 
 Hendro adalah seorang murid di sekolah Paket C. Dia adalah anak yang sangat sosial, suka bercanda, dan berbicara di kelas. Namun, semakin hari semakin terlihat bahwa dia semakin fokus untuk belajar di kelas dibanding ngobrol random dengan temanya. Dia semakin sering bertanya jika tidak tahu. Dia semakin mencoba menjawab pertanyaan guru. Tentu, jika dibandingkan dengann teman-temannya yang memiliki basic english lebih baik, nilainya masih dibawah. Namun, proses perkembangan bahasa inggrisnya luar biasa.  
 
-Ini yang saya tulis kepadanya. 
+Ini yang saya tulis kepadanya:
 
 “Hendro, miss melihat bahwa kamu sekarang sangat fokus belajar, lebih sedikit ngobrol. Terlihat kamu berusaha keras menghapal pelajaran dan jarang lupa membuat PR. Bahkan kamu sering memberi saran lagu bahasa inggris yang bisa digunakan di kelas. Dibandingkan awal sajaran baru, miss yakin vocabulary kamu sudah meningkat lebih dari 200%. Miss yakin kamu bisa lebih fasih lagi di masa depan, kalau kamu semakin sering mendengar lagu, film atau (terutama)membaca cerita dalam bahasa inggris. Kasih rekomendasi untuk miss ya, lagu/ film dalam bahasa inggris yang kamu tonton akhir-akhir ini.” 
 
@@ -68,7 +68,7 @@ Dari pengalaman saya, berfokus pada individu bisa dilakukan dengan membuat jurna
 
 Di tengah semester setelah ada test/ujian, tuliskan 1 paragraf hal yang dilihat telah meningkat dan ruang untuk berkembang, kepada setiap anak-anak. Data ini dapat diambil dari observasi sehari-hari ataupun jurnal. Memiliki jurnal murid, membuat guru jadi lebih peka terhadap perkembangan anak di kelas, walaupun tidak setiap hari menuliskannya. Namun, dapat membantu untuk fokus pada perkembangan individu. Anak murid bukan lagi dilihat dari angka/nilai-nya, namun terhadap usahanya. 
 
-### 2. Membuat anak merasa mereka yang memegang kendali terhadap pendidikanya. 
+### 2. Pentingnya anak memegang kendali terhadap pendidikannya sendiri 
 
 Dengan anak yang mengarahkan proses belajar secara mandiri, mereka akan bersemangat karena mereka bisa memilih topik yang disenangi. Mereka bisa berjam-jam belajar tanpa ada rasanya suntuk. Terkait ini ada beberapa metode pembelajaran yang memiliki prinsip utama demikian, seperti montessori dan SOLE (self-oranganize learning environment).  Walaupun, metode seperti ini belum sering diterapkan di sekolah negeri di Indonesia, namun bapak/Ibu guru bisa mencari ruang untuk memberikan kebebasan lebih bagi anak untuk mengatur arah belajar.
 
@@ -80,7 +80,7 @@ Sebagai contoh dalam pelajaran biologi tentang virus, tanyakan kepada murid hal 
 
 Hal ini tentu saja aneh buat anak-anak di awal,  mereka terbiasa di sekolah untuk menuruti dan mengganguk terhadap arahan guru. Hal Ini pun juga bisa terlalu nyentrik buat bapak/Ibu guru karena sudah nyaman untuk mengatur semuanya. Tapi, bukankah kita sebagai manusia lebih suka mengambil keputusan sendiri dibandingkan hanya mengikuti kata orang?
 
-**3. Bahaya kompetisi**
+### 3. Bahaya kompetisi
 
 Sering kali kita pikir dengan mengadakan kompetisi, anak akan menjadi lebih semangat. Dahulu kita pikit bahwa sistem ranking membuat anak menjadi belajar giat. Ternyata, penelitian menunjukan sebaliknya. Dalam kompetisi ada yang menang dan lebih banyak yang kalah. Covington (1998) menunjukkan bahwa kompetisi memiliki dampak yang membahayakan bagi motivasi belajar anak. Anak murid menjadi mempunyai tendensi untuk menghindari risiko kegagalan/kalah dengan tidak mencoba tantangan tersebut dan meniadakan integritas dalam prosesnya. Pernahkan bapak/Ibu mendengar ada anak yang diajak mengikuti tantangan atau hal baru,”males ah.” “Nga ah”? Tanya lagi, keengganan mereka ini karena apa?
 
